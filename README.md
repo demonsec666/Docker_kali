@@ -9,3 +9,5 @@ docker exec -it kali /bin/bash
 
 
 root密码：demon
+开机自启apcahe2  ssh服务  
+内置自动化安装配置sqlmap/ssh/apache/,可在dockerfile 自定义添加更改自己所需要的软件
